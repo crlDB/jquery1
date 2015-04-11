@@ -1,3 +1,3 @@
 $(document).ready( function() {
-    alert( 'De pagina is geladen.---' );
+    alert( 'De pagina is geladen.----' );
 } );
