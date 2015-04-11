@@ -1,0 +1,14 @@
+body {
+   background-image: url("./sjabloon.png");
+   background-repeat: repeat;
+    font-family: sans-serif;
+}
+
+main {
+    width:540px;
+    margin:auto;
+    padding:1px 20px;
+    background-color: white;
+    border-radius: 10px;
+    border:1px solid navy;
+}
