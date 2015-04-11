@@ -1,0 +1,48 @@
+body {
+    background-image: url("../Images/sjabloon.png");
+    background-repeat: repeat;
+    font-family: sans-serif;
+}
+
+main {
+    width: 540px;
+    margin: auto;
+    padding: 1px 20px;
+    background-color: white;
+    border-radius: 10px;
+    border: 1px solid navy;
+}
+
+img {
+    float: left;
+}
+.eindfloat{
+    clear: both;
+}
+
+p, ol{
+    line-height: 20px;
+}
+.webninja {
+    color:rgba(142,76,119,255);
+    font-weight: bold;
+}
+aside{
+    float: right;
+    width: 200px;
+    background-color: gray;
+    padding: 0px 10px;
+    color: white;
+}
+aside h3 {
+    color: orange;
+}
+aside p, aside ol {
+    font-weight: bold;
+    font-family: courier;
+    font-size: 12px;
+}
+
+ol {
+    list-style-position: inside;
+}
