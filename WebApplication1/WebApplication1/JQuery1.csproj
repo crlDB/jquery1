@@ -74,6 +74,9 @@
     <Content Include="h02-vb4\h02-vb4.css" />
     <Content Include="h02-vb4\h02-vb4.html" />
     <Content Include="h02-vb4\h02-vb4.js" />
+    <Content Include="h02-vb5\h02-vb5.css" />
+    <Content Include="h02-vb5\h02-vb5.html" />
+    <Content Include="h02-vb5\h02-vb5.js" />
     <Content Include="Images\sjabloon.png" />
     <Content Include="Images\jquery.png" />
     <Content Include="h02-vb2\h02-vb2.css" />
