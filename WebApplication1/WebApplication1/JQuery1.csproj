@@ -68,12 +68,14 @@
     <Content Include="h02-vb1\h02-vb1.css" />
     <Content Include="h02-vb1\h02-vb1.html" />
     <Content Include="h02-vb1\h02-vb1.js" />
+    <Content Include="h02-vb3\h02-vb3.css" />
+    <Content Include="h02-vb3\h02-vb3.html" />
+    <Content Include="h02-vb3\h02-vb3.js" />
+    <Content Include="Images\sjabloon.png" />
     <Content Include="Images\jquery.png" />
-    <Content Include="h02-vb1\sjabloon.png" />
     <Content Include="h02-vb2\h02-vb2.css" />
     <Content Include="h02-vb2\h02-vb2.html" />
     <Content Include="h02-vb2\h02-vb2.js" />
-    <Content Include="h02-vb2\sjabloon.png" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
