@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication1", "WebApplication1\WebApplication1.csproj", "{CA2B5A2E-5768-4679-BA10-C57D02285BD6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JQuery1", "WebApplication1\JQuery1.csproj", "{CA2B5A2E-5768-4679-BA10-C57D02285BD6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
