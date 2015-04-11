@@ -8,7 +8,7 @@ main {
     width: 540px;
     margin: auto;
     padding: 1px 20px;
-    background-color: white;
+    background-color: gray;
     border-radius: 10px;
     border: 1px solid navy;
 }
@@ -49,7 +49,7 @@ ol {
 }
 
 li:hover {
-    background-color: orange;
+    background-color: #ff0000;
     cursor: pointer;
 } 
 
