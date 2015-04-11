@@ -68,6 +68,7 @@
     <Content Include="h02-vb1\h02-vb1.css" />
     <Content Include="h02-vb1\h02-vb1.html" />
     <Content Include="h02-vb1\h02-vb1.js" />
+    <Content Include="Images\jquery.png" />
     <Content Include="h02-vb1\sjabloon.png" />
     <Content Include="h02-vb2\h02-vb2.css" />
     <Content Include="h02-vb2\h02-vb2.html" />
