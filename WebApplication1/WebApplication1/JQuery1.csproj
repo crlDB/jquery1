@@ -58,7 +58,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Images\Naamloos.png" />
-    <Content Include="TextFile1.md" />
+    <Content Include="ReadMe.md" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
