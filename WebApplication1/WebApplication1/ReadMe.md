@@ -9,20 +9,20 @@
 * select 'network view'
 * from hardware catalog / controllers / cpu add cpu1212C
   ![alt text](Images/addCpu.png?raw=true "add cpu")
-  
+
 
 * select 'device view'
 * from hardware catalog / communication modules / profibus add CM1242-5 to the left side off the cpu
 
-  ![alt text](images/deviceView.png "")
+  ![alt text](Images/deviceView.png?raw=true "")
 * select CM1242-5
 * go to tab properties
 * go to DP interface / profibus address
 * create subnet and add profibus address / speed
-  ![alt text](images/profibusAddress.png "")
+  ![alt text](Images/profibusAddress.png?raw=true "")
 * got to DP interface / operating mode
 * select DP - slave and configure the transfer areas
-  ![alt text](images/operatingMode.png "")
+  ![alt text](Images/operatingMode.png?raw=true "")
 
 
 
