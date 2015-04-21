@@ -1,6 +1,7 @@
-Take me to [pookie](#pookie)
+[create project in STEP7](#Create_project_in_STEP7)
 
-# CPU1212C with CM1242-5 as DP-slave
+
+# <a name="Start"></a> CPU1212C with CM1242-5 as DP-slave
 
 ## Create project in TIA Portal
 
@@ -23,7 +24,7 @@ Take me to [pookie](#pookie)
 * select DP - slave and configure the transfer areas
   ![alt text](Images/OperatingMode.png?raw=true "")
 
-## <a name="pookie"></a> Create project in STEP7  ##
+## <a name="Create_project_in_STEP7"></a> Create project in STEP7  ##
 
 * insert simatic-300 station
 * open hardware
@@ -39,3 +40,5 @@ Take me to [pookie](#pookie)
 * set the inputs and outputs, like it was configured in TiaPortal, for this example it is 20bytes inputs and 20 bytes output.  Take the same addresse as it was configures in the CM1242.  Check also the parameter consistency.
 
   ![alt text](Images/Step7_hw4.png?raw=true "")
+
+[Back](#Start)
