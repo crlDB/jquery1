@@ -5,7 +5,8 @@
 * go to devices and network,
 * select 'network view'
 * from hardware catalog / controllers / cpu add cpu1212C
-  ![alt text](/Images/addCpu.psng?raw=true "add cpu")
+![alt text](/WebApplication1/WebApplication1/Images/addCpu.png?raw=true "add cpu")
+  ![alt text](Images/addCpu.psng?raw=true "add cpu")
 
 * select 'device view'
 * from hardware catalog / communication modules / profibus add CM1242-5 to the left side off the cpu
@@ -21,7 +22,7 @@
   ![alt text](images/operatingMode.png "")
 
 
-  ![alt text](/WebApplication1/WebApplication1/Images/addCpu.png?raw=true "add cpu")
+
 
 
 
