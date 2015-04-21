@@ -67,6 +67,7 @@
     <Content Include="Images\Step7_hw1.png" />
     <Content Include="Images\Step7_hw2.png" />
     <Content Include="Images\Step7_hw3.png" />
+    <Content Include="Images\Step7_hw4.png" />
     <Content Include="ReadMe.md" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
