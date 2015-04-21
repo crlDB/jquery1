@@ -1,4 +1,6 @@
 ![alt text](/WebApplication1/WebApplication1/Images/Ok-icon.png?raw=true "add cpu")
+![alt text](/Images/Ok-icon.png?raw=true "add cpu")
+
 # CPU1212C with CM1242-5 as DP-slave
 
 ## Create project in TIA Portal
