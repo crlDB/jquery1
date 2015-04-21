@@ -5,7 +5,7 @@
 * go to devices and network,
 * select 'network view'
 * from hardware catalog / controllers / cpu add cpu1212C
-  <img width="100%" src="images/addCpu.png" alt="About screen" title="About screen"</img>
+  <img width="100%" src="./images/addCpu.png" alt="About screen" title="add cpu"</img>
 
 
   ![alt text](/images/addCpu.png?raw=true "add cpu")
