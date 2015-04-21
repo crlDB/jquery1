@@ -35,59 +35,6 @@
 * Menu options / install GSD-file -> install the 'si18e18.gsd'
 * Hardware catalog / Pofibus DP / Additional Fiels Devices / S71200 / CM1242-5 -> connect to the dp-master add profibus slave address select profibus master line
 ![alt text](Images/Step7_hw3.png?raw=true "")
+* set the inputs and outputs, like it was configured in TiaPortal, for this example it is 20bytes inputs and 20 bytes output.  Take the same addresse as it was configures in the CM1242.  Check also the parameter consistency.
 
-
-
-
-
-
-
-
-
-
-# H1
-## H2
-### H3
-#### H4
-##### H5
-###### H6
-
-Alternatively, for H1 and H2, an underline-ish style:
-
-Alt-H1
-======
-
-Alt-H2
-------
-
-Emphasis, aka italics, with *asterisks* or _underscores_.
-
-Strong emphasis, aka bold, with **asterisks** or __underscores__.
-
-Combined emphasis with **asterisks and _underscores_**.
-
-Strikethrough uses two tildes. ~~Scratch this.~~
-
-
-dsqdqsdAA
-
-fdf
-df
-ds
-fsd
-xw
-x
-y
-z
->a
-
-test 1
-test 2
-test 3
-
-test 10
-test 11
-test 12
-
-test 13
-test 14
+![alt text](Images/Step7_hw4.png?raw=true "")
