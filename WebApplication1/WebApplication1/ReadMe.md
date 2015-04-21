@@ -3,6 +3,10 @@
 [create project in TIA Portal](#r1)  
 [create project in STEP7](#r2)  
 
+```javascript
+blok code 1
+blok code 2
+```
 
 
 # <a id="r0"></a> CPU1212C with CM1242-5 as DP-slave
