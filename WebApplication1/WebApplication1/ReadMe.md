@@ -19,7 +19,9 @@
   ![alt text](Images/profibusAddress.png?raw=true "")
 * got to DP interface / operating mode
 * select DP - slave and configure the transfer areas
-  ![alt text](Images/operatingMode.png?raw=true "")
+  ![alt text](Images/OperatingMode.png?raw=true "")
+*
+
 
 
 
