@@ -20,7 +20,27 @@
 * got to DP interface / operating mode
 * select DP - slave and configure the transfer areas
   ![alt text](Images/OperatingMode.png?raw=true "")
-*
+
+
+## Create project in STEP7
+
+* insert simatic-300 station
+* open hardware
+* from hardware catalog / simatic 300 / rack-300 -> add rail
+* from hardware catalog / simatic 300 / cpu 300 -> add cpu in slot 2
+* X1 MPI/DP / properties / select mode DP
+![alt text](Images/Step7_hw1.png?raw=true "")
+* create subnet and add profibus address / speed
+![alt text](Images/Step7_hw2.png?raw=true "")
+* Menu options / install GSD-file -> install the 'si18e18.gsd'
+* Hardware catalog / Pofibus DP / Additional Fiels Devices / S71200 / CM1242-5 -> connect to the dp-master add profibus slave address select profibus master line
+![alt text](Images/Step7_hw3.png?raw=true "")
+
+
+
+
+
+
 
 
 
