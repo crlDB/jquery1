@@ -61,6 +61,7 @@
     <Content Include="Images\deviceView.png" />
     <Content Include="Images\Naamloos.png" />
     <Content Include="Images\NetworkView.png" />
+    <Content Include="Images\Ok-icon.png" />
     <Content Include="Images\OperatingMode.png" />
     <Content Include="Images\profibusAddress.png" />
     <Content Include="ReadMe.md" />

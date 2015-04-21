@@ -1,3 +1,4 @@
+![alt text](/WebApplication1/WebApplication1/Images/Ok-icon.png?raw=true "add cpu")
 # CPU1212C with CM1242-5 as DP-slave
 
 ## Create project in TIA Portal
@@ -5,7 +6,6 @@
 * go to devices and network,
 * select 'network view'
 * from hardware catalog / controllers / cpu add cpu1212C
-![alt text](/WebApplication1/WebApplication1/Images/addCpu.png?raw=true "add cpu")
   ![alt text](Images/addCpu.psng?raw=true "add cpu")
 
 * select 'device view'
