@@ -1,6 +1,8 @@
-[create project in TIA Portal](#r1)
+> CPU1212C as DP-slave to CPU300 as DP-master
 
-[create project in STEP7](#r2)
+[create project in TIA Portal](#r1)  
+[create project in STEP7](#r2)  
+
 
 
 # <a id="r0"></a> CPU1212C with CM1242-5 as DP-slave
