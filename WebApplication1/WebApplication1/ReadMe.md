@@ -1,3 +1,5 @@
+Take me to [pookie](#pookie)
+
 # CPU1212C with CM1242-5 as DP-slave
 
 ## Create project in TIA Portal
@@ -21,8 +23,7 @@
 * select DP - slave and configure the transfer areas
   ![alt text](Images/OperatingMode.png?raw=true "")
 
-
-## Create project in STEP7
+## <a name="pookie"></a> Create project in STEP7  ##
 
 * insert simatic-300 station
 * open hardware
