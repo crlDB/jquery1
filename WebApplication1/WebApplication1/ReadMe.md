@@ -37,4 +37,4 @@
 ![alt text](Images/Step7_hw3.png?raw=true "")
 * set the inputs and outputs, like it was configured in TiaPortal, for this example it is 20bytes inputs and 20 bytes output.  Take the same addresse as it was configures in the CM1242.  Check also the parameter consistency.
 
-![alt text](Images/Step7_hw4.png?raw=true "")
+  ![alt text](Images/Step7_hw4.png?raw=true "")
