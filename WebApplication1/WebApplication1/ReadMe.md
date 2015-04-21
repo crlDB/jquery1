@@ -23,18 +23,6 @@
 
 
 
-
-
-
-  ![alt text](/WebApplication1/WebApplication1/Images/Ok-icon.png?raw=true "add cpu")
-  ![alt text](/Images/Ok-icon.png?raw=true "add cpu")
-
-
-
-
-
-
-
 # H1
 ## H2
 ### H3
